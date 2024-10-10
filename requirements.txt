@@ -1,0 +1,11 @@
+pillow
+spacy
+pytesseract
+pip
+json
+base4
+io
+easyocr
+numpy
+re
+cv2
